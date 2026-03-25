@@ -16,8 +16,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 - 👋 Hi, I’m @Rusafy
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning React
+- 🌱 I’m a Product Designer
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 Reach me at rusafy@gmail.com
 - 📫 Website: https://rusafy.com
